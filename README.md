@@ -1,5 +1,5 @@
 
-## sys_admin
+## web_counter
 
 This repo contains files for a simple Flask-based web server.
 
